@@ -1,3 +1,6 @@
+To clone only branch:
+sudo git clone https://github.com/haykp/LCD-show -b LCD35only --single-branch
+
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 
