@@ -2,6 +2,7 @@ To clone only branch:
 sudo git clone https://github.com/haykp/LCD-show -b LCD35only --single-branch
 
 sudo ./LCD35-show
+
 sudo ./LCD-hdmi
 
 #####################
